@@ -1,5 +1,7 @@
 macOS on XPS 13 9360
 
+fork of a XPS9360 EFI folder to try on my own laptop.
+
 Device : Dell XPS 13 9360  
 CPU : Intel i5-8250U  
 GPU : Intel UHD 620 Kaby Lake  
