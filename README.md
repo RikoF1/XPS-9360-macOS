@@ -1,5 +1,7 @@
 macOS on XPS 13 9360
 
+DEPRECATED
+
 fork of a XPS9360 EFI folder to try on my own laptop.
 
 Device : Dell XPS 13 9360  
